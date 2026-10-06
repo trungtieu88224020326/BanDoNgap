@@ -1,0 +1,6 @@
+{
+  "name": "Nước Lên – Bản đồ ngập & Cảnh báo an toàn",
+  "description": "Nền tảng theo dõi tình trạng ngập lụt đô thị, cảnh báo thời gian thực, tìm đường tránh ngập và tiếp nhận phản ánh cộng đồng tại TP. Hồ Chí Minh.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
